@@ -6,6 +6,12 @@ class vector:
 		self.y = y
 
 	def norme(self):
-		return sqrt(self.x**2 + self.y**2) 
+		return sqrt(self.x**2 + self.y**2)
+    
+	def assurance(self,):
+		print("hello kidam je voulais juste me rassurer que je n'est rien oublie bye!")
+		return
+
+ 
 
 
